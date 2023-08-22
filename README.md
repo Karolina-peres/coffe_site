@@ -1,3 +1,5 @@
 # coffe_site
 Meu site de cafeteria
-Auto: Karolina Peres  
+
+Auto: 
+- Karolina Peres  
